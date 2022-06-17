@@ -64,7 +64,7 @@ Plug 'scrooloose/nerdtree'
 Plug 'sainnhe/sonokai'
 Plug 'https://github.com/preservim/tagbar'
 Plug 'voldikss/vim-floaterm'
-Plug 'valloric/YouCompleteMe'
+"Plug 'valloric/YouCompleteMe'
 
 "vim .md edit
 Plug 'junegunn/goyo.vim'
