@@ -73,6 +73,9 @@ Plug 'junegunn/goyo.vim'
 Plug 'yuezk/vim-js'
 Plug 'maxmellon/vim-jsx-pretty'
 
+" Trancparent background (:TransparentDisable / :TransparentEnable)
+Plug 'tribela/vim-transparent'
+
 call plug#end()
 
 "nmap <F8> :TagbarToggle<CR>
