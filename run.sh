@@ -1,5 +1,5 @@
-sudo apt-get install curl
-sudo apt-get install vim
+sudo apt-get install curl -y
+sudo apt-get install vim -y
 
 scp -r .vim ~/
 scp .vimrc ~/
